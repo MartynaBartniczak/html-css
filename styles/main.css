@@ -1,0 +1,21 @@
+#produkt{
+    color: crimson;
+    background-color: #e7e7ff;
+    height: 300px;
+    width: 500px;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    border-top-width: 20px;
+    border-right-width: 20px;
+    border-left-width: 20px;
+    border-bottom-width: 20px;
+    border-style: solid;
+}
+.div{
+    font-weight: bolder;
+}
+body{
+    background-color: #fff67b;
+    font-family: "Bitstream Charter" sans-serif;
+    font-size: 2em;
+}
