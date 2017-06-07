@@ -1,0 +1,19 @@
+#test-sekcja-1 {
+    font-family: Arial, sans-serif;
+    font-size: large;
+    color: red;
+    text-align: center;
+}
+header {
+    background-color: green;
+    height: 300px;
+    width: 200px;
+    color: white;
+    padding: 50px;
+    margin: 100px;
+    border-width: 10px;
+    border-color: red;
+    border-style: solid;
+    text-align: center;
+
+}
