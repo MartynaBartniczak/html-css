@@ -1,0 +1,16 @@
+.ooo {
+    color: red;
+}
+.elementy-zielone {
+    font-family: Arial Algerian sans-serif;
+    color: green;
+    font-size: 30px;
+}
+.poligon{
+    background-color: green;
+    height: 300px;
+    width: 200px;
+    padding: 50px;
+    margin: 50px;
+
+}
