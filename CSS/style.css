@@ -1,0 +1,19 @@
+
+
+h1 {
+    color: darkblue;
+}
+
+span {
+    font-style: italic;
+}
+
+.my-place {
+    background-color: beige;
+    height: 200px;
+    width:  200px;
+    border: dashed; 4px; color: lightblue;
+    border-width: 10px;
+    margin: 50px;
+    padding: 50px;
+}
