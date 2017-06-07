@@ -1,0 +1,25 @@
+#sekcja-nr-1 {
+    color: #4b805d;
+    font-size: 24px;
+}
+.elementy-zielone {
+    color: darkgreen;
+    font-family: arial, sans-serif;
+    font-size: 76px;
+    font-style: italic;
+}
+
+li {
+
+    font-weight: bolder;
+}
+.poligon {
+    background-color: #ff3c5c;
+    height: 100px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 60px;
+    border: dotted 3px;
+
+}
