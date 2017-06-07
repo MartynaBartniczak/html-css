@@ -1,0 +1,27 @@
+#sekcja-nr-1 {
+    color: red;
+}
+
+.elementy-zielone {
+    color: lawngreen;
+    font-family: Arial, sans-serif;
+    font-size: 70px;
+
+}
+
+li {
+    font-weight: bold;
+
+}  .poligon {
+    color: white;
+    background-color: green;
+    height: 120px;
+    width: 320px;
+    padding: 50px;
+    margin: 50px;
+    border-width: 40px ;
+       border-color: blue;
+
+
+
+}
